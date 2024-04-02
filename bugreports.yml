@@ -1,6 +1,6 @@
 ---
 - summary: |
-    Функция мультиязычности сайта работает некорректно
+    Отсутствует перевод описаний товара на русский язык
   environment: |
     Google Chrome   Version 123.0.6312.59 (Official Build) (arm64)
     macOS Sonoma Version 14.4.1
