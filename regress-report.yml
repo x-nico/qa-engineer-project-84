@@ -1,73 +1,97 @@
 test-cases:
+
 - summary: |
     Проверка добавления товара в корзину
   status: pass
+  
 - summary: |
     Оформление заказа
   status: pass
+  
 - summary: |
     Удаление товара из корзины
   status: pass
+  
 - summary: |
     Удаление нескольких единиц товара из корзины
   status: fail   
+  
 - summary: |
     Очистка корзины целиком
   status: pass
+  
 - summary: |
     Изменение языка сайта
   status: fail
+  
 - summary: |
     Проверка фильтрации товаров по наличию
   status: pass
+  
 - summary: |
     Проверка корректной работы мобильной версии сайта
   status: pass
+  
 - summary: |
     Проверка входа с браузера Mozilla FireFox
   status: pass
+  
 - summary: |
     Проверка ввода отрицательного значения цены в фильтре цен
   status: fail
+  
 - summary: |
     Проверка фильтрации по бренду
   status: pass
+  
 - summary: |
     Проверка фильтрации по нескольким брендам
   status: pass
+  
 - summary: |
     Проверка поиска товара по хештегу
   status: pass
+  
 - summary: |
     Проверка запроса на получение списка товаров
   status: pass
+  
 - summary: |
     Проверка запроса на получение информации о конкретном товаре
   status: pass
+  
 - summary: |
     Проверка хранения данных корзины в сессии Браузера 
   status: pass
+  
 - summary: |
     Проверка поиска по фильтру «бренд»
   status: fail
+  
 - summary: |
     Проверка поиска по фильтру «бренд»
   status: fail
+  
 - summary: |
     Проверка ввода отрицательных чисел в поле "Цена"
   status: fail
+  
 - summary: |
     Проверка ввода отрицательных чисел в поле "Цена"
   status: fail
+  
 - summary: |
     Проверка ввода дробных чисел в поле  "цена"
   status: fail
+  
 - summary: |
     Проверка ввода дробных чисел в поле  "цена"
   status: fail
+  
 - summary: |
     Проверка поиска товара по цене со скидкой
   status: fail
+  
 - summary: |
     Проверка поиска товара по цене со скидкой
   status: fail
