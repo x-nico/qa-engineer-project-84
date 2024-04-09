@@ -6,7 +6,7 @@ test-cases:
   
 - summary: |
       Проверка перехода на страницу подтверждения заказа
-    status: fail
+  status: fail
 
 - summary: |
     Оформление заказа
