@@ -4,6 +4,10 @@
   status: pass
   
 - summary: |
+    Проверка перехода на страницу подтверждения заказа
+  status: fail
+
+- summary: |
     Оформление заказа
   status: pass
   
