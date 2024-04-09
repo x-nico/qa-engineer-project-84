@@ -12,7 +12,7 @@
     
     3. Из выпадающего списка выбрать "Russian"
     
-  expected-result: >
+  expected-result: |
     Элементы интерфейса сайта, описание в карточках товаров
     отображаются корректно на русском языке
   actual-result: |
@@ -25,6 +25,7 @@
     Google Chrome   Version 123.0.6312.59 (Official Build) (arm64)
     macOS Sonoma Version 14.4.1
   steps-to-reproduce: |
+
     1. Открыть страницу каталога  
     
     2. Выбрать товар и нажать
