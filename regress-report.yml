@@ -77,14 +77,6 @@ test-cases:
   status: fail
   
 - summary: |
-    Проверка ввода отрицательных чисел в поле "Цена"
-  status: fail
-  
-- summary: |
-    Проверка ввода отрицательных чисел в поле "Цена"
-  status: fail
-  
-- summary: |
     Проверка ввода дробных чисел в поле  "цена"
   status: fail
   
