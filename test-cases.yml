@@ -146,8 +146,6 @@
     Mozilla FireFox Версия 122.0 (64-разрядный)
   steps:
     - Открыть сайт магазина https://hexlet-products-store.vercel.app/
-    - Войти в "Dev Tools"
-    - Нажимаем кнопку Toggle device toolbar
     - Выбрать нужную категорию товара
     - Открыть карточку товара
     - Добавить товар в корзину
